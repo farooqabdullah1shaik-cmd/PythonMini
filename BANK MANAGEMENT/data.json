@@ -1,0 +1,34 @@
+[
+    {
+        "name": "akash",
+        "age": 23,
+        "email": "akash22@gmail.com",
+        "pin": 1234,
+        "accountNo": 967930,
+        "balance": 0
+    },
+    {
+        "name": "harsh",
+        "age": 24,
+        "email": "harsh@gmail.com",
+        "pin": "1234",
+        "accountNo": "n5x*0g7",
+        "balance": 5000
+    },
+    {
+        "name": "Farooq Maya",
+        "age": 22,
+        "email": "farooqabdullah1shaik@gmail.com",
+        "pin": "7863",
+        "accountNo": "GW58&q1",
+        "balance": 0
+    },
+    {
+        "name": "Swamy Anakapalli",
+        "age": 21,
+        "email": "swamy222@gamil.com",
+        "pin": "5656",
+        "accountNo": "g4!f2a2",
+        "balance": 0
+    }
+]
